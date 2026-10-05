@@ -1,10 +1,6 @@
---- GOALS.md (原始)
-
-
-+++ GOALS.md (修改后)
 # Project Goals
 
-## Working name: **ClangGPU** (placeholder — rename freely)
+## Working name: **GPUXX** (placeholder — rename freely)
 
 *A source-compatible C++ extension for GPU compute, implemented as a targeted
 patch to Clang that lowers annotated functions to SPIR‑V and runs them through
